@@ -29,3 +29,15 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## ▶️ Running the App
+
+After installing the dependencies, run the app using Streamlit:
+
+💡 Make sure the file name is main.py and it’s in the same directory.
+
+```bash
+streamlit run main.py
+
+
